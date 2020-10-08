@@ -9,6 +9,12 @@ namespace mvc.Controllers
 {
     public class ShopController : Controller
     {
+        private readonly IShopRepo repo;
+
+        public ShopController(IShopRepo repo)
+        {
+            this.repo = repo;
+        }
         public IActionResult Index()
         {
             return View();
@@ -16,14 +22,7 @@ namespace mvc.Controllers
 
         public IActionResult ShopList()
         {
-            var list = new List<ShopModel>
-            {
-                new ShopModel { ShopItem = "T-shirt", ItemPrice = 20 },
-                new ShopModel { ShopItem = "Shoes", ItemPrice = 250 },
-                new ShopModel { ShopItem = "Cardigan", ItemPrice = 120 },
-                new ShopModel { ShopItem = "Leather Belt", ItemPrice = 99 },
-            };
-
+            var list = repo.GetItems();
             return View(list);
         }
     }
