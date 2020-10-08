@@ -36,3 +36,5 @@ C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
 C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
 C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
 C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Test\Index.cshtml.g.cs
+C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shop\ShopList.cshtml.g.cs
+C:\Users\Gosia\Documents\GitHub\ASPnet\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs

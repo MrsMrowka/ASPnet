@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ShopModel>
+@{
+    ViewData["Title"] = "ShopList";
+}
+
+<h1> ShopList </h1>
+
+
+
+<ul>
+    @foreach (var item in @Model)
+    {
+        <li>@item.ShopItems</li>
+    }
+</ul>
