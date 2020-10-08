@@ -18,10 +18,10 @@ namespace mvc.Controllers
         {
             var list = new List<ShopModel>
             {
-                new ShopModel { ShopItems = "T-shirt" },
-                new ShopModel { ShopItems = "Shoes" },
-                new ShopModel { ShopItems = "Cardigan" },
-                new ShopModel { ShopItems = "Leather Belt" },
+                new ShopModel { ShopItem = "T-shirt", ItemPrice = 20 },
+                new ShopModel { ShopItem = "Shoes", ItemPrice = 250 },
+                new ShopModel { ShopItem = "Cardigan", ItemPrice = 120 },
+                new ShopModel { ShopItem = "Leather Belt", ItemPrice = 99 },
             };
 
             return View(list);

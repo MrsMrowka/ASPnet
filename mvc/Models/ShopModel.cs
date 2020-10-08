@@ -7,6 +7,7 @@ namespace mvc.Models
 {
     public class ShopModel
     {
-        public string ShopItems { get; set; }
+        public string ShopItem { get; set; }
+        public int ItemPrice { get; set; }
     }
 }
