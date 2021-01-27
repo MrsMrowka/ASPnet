@@ -1,0 +1,172 @@
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.input.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.TagHelpers.output.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorCoreGenerate.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.Views.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\Gosia\Desktop\Nowy folder (2)\ASP.NET-main — kopia\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
